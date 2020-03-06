@@ -1,0 +1,13 @@
+.card {
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;align-items: center;
+}
+
+.card .description p {
+    margin: 0 0 0.5rem 1rem;
+}
+
+.twitter {
+    color: rgb(52, 160, 196);
+}

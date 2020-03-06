@@ -1,0 +1,17 @@
+.details-hero {
+    background: url('../images/estrellas.svg'), #1B1B25;
+    padding: 2rem 0;
+    color: white;
+    text-align: center;
+}
+
+.container .col:nth-child(2) {
+    padding-top: 1rem;
+    text-align: center;
+}
+.container .col:nth-child(2) h2 {
+    padding-bottom: 2rem;
+}
+.container .col:nth-child(2) .btn-danger {
+    padding: 0.5rem 2.5em;
+}

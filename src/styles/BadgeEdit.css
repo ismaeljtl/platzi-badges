@@ -1,0 +1,11 @@
+.BadgeEdit-hero {
+    background-color: black;
+    background-image: url('../images/estrellas.svg');
+
+    display: flex;
+    justify-content: center;
+}
+.BadgeEdit-hero img {
+    margin: 1rem 0;
+    max-height: 100px;
+}

@@ -1,0 +1,67 @@
+.Badge {
+    overflow: hidden;
+    margin: 1rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px #d8d8d8;
+}
+
+.badge-header {
+    border-radius: 10px 10px 0 0;
+    padding: 15px;
+    background-color: #141414;
+    text-align: center;
+}
+
+.badge-section {
+    padding: 15px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge-section h1 {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+
+.badge-avatar {
+    padding: 20px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.badge-info {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.badge-info .title {
+    color: #000000;
+    font-size: xx-large;
+    font-weight: light;
+    margin: 3px 0;
+}
+
+.badge-info .twitter {
+    color: #000000;
+    font-size: large;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.badge-footer {
+    padding: 5px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    color: #98ca3f;
+}
+
+.badge-footer p{
+    margin: 5px;
+}

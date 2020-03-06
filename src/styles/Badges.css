@@ -1,0 +1,35 @@
+.Badges-hero {
+    width: 100%;
+    padding: 2rem 0;
+    background: url('../images/estrellas.svg');
+    background-color: #000000;
+    margin-bottom: 1rem;
+}
+
+.Badges-hero .Badges-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 150px;
+    margin: 0 auto;
+}
+
+.Badges-conf-logo {
+    margin-top: 2rem;
+}
+
+.Badges-button {
+    display: flex;
+    justify-content: flex-end;
+    margin: 2rem 1rem 0 0;
+}
+
+.btn-success {
+    background-color: #98ca3f;
+    border: 1px solid #98ca3f;
+}
+.btn-success:hover {
+    background-color: #6ea70d;
+    border: 1px solid #6ea70d;
+}
